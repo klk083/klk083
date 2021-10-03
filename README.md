@@ -1,8 +1,8 @@
-Hi, Kenneth L Krogstad here at @klk083
-I am a fullstack engineer looking for work.
-Have a Bachelor degree as computer engineer.
-Want to learn as much i can, so that i can reach my full potential.
-
+Hi, Kenneth L Krogstad here at @klk083  	  
+I am a fullstack engineer looking for work.  
+Have a Bachelor degree as computer engineer.  
+Want to learn as much i can, so that i can reach my full potential.  
+  
 You can find me on www.linkedin.com/in/kenneth-krogstad
 
 
